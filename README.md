@@ -4,11 +4,13 @@
 1. Two interger input is taken form user
    num1 = first number
    num2 = second number
-2.Basic mathematical operations are used and store value in respective variable
+   
+2. Basic mathematical operations are used and store value in respective variable
    add for Addition
    sub for Subtraction
    multi for Multiplication
    div for Divison
+   
 3. Output will be display as expected
 
 # Task-2 is based on Strin and it's concatenates
